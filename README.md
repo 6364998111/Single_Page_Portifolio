@@ -1,8 +1,3 @@
-# Single_Page_Portifolio
-6364998111: generate github readme for the project
-
-Workspace: Collecting workspace informationHere's a README.md for your Rock Paper Scissors project:
-
 # Rock Paper Scissors Game
 
 A simple web-based implementation of the classic Rock Paper Scissors game with score tracking functionality.
